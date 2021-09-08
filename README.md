@@ -12,6 +12,4 @@
   <img align="center" alt="Max-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Max-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
