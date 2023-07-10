@@ -60,4 +60,5 @@
 </div>
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/maxmullers17)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/maxmullers17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxmullers17" /></a></p><br><br>
