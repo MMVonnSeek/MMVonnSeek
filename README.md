@@ -1,8 +1,10 @@
 [![@mmvonnseek's Holopin board](https://holopin.me/mmvonnseek)](https://holopin.io/@mmvonnseek)
 
 
-<div><a href="https://github.com/MMVonnSeek"><img height="151em" src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMVonnSeek&layout=compact&langs_count=7&theme=algolia"/>
-</div>  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mmvonnseek&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" alt="Max Muller github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmvonnseek&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" />
+</div>
 
 
 ### Main skills:
