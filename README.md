@@ -14,7 +14,7 @@
 </div>
 
 
-### Main skills:
+### Main skills:                                                                                               
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -53,8 +53,12 @@
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
   
-  
 ###
+
+
+![city-min](https://github.com/MMVonnSeek/MMVonnSeek/assets/89359847/c039f86c-9189-4c37-b883-bcc7f85a4ece)
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
