@@ -38,13 +38,14 @@
 
 ### Studying in this moment:
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="icon" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="57" />
      </a>
     </td>
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       </a>
     </td>
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
   <img width="12" />
@@ -52,7 +53,7 @@
   <img width="12" />
   <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
-  
+           
 ###
 
 
