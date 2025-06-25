@@ -22,6 +22,7 @@
     </td>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -42,11 +43,6 @@
 <div align="left">
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="57" />
-     </a>
-    </td>
-   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-    </td>
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
   <img width="12" />
