@@ -21,6 +21,8 @@
       </a>
     </td>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="icon" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
@@ -35,13 +37,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="icon" width="60" height="60"/>
   <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
 </div>
 
 ### Studying in this moment:
 <div align="left">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="57" />
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
