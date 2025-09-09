@@ -30,6 +30,7 @@
 <div align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="57" alt="JavaScript" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
@@ -51,7 +52,6 @@
 ## Studying in this moment:
 
 <div align="left">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="57" alt="JavaScript" />
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="60" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" alt="RedHat" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity" />
