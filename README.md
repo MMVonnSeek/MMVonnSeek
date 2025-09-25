@@ -30,6 +30,7 @@
 <div align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="57" alt="JavaScript" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
