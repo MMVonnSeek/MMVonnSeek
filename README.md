@@ -59,8 +59,8 @@
 <div align="left">
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="60" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" alt="RedHat" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" /></a>
 </div>
 
 ---
