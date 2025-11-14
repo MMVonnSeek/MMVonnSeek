@@ -49,6 +49,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="60" alt="GitHub" />
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
   </a>
 </div>
 
