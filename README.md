@@ -84,7 +84,6 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
----
 
 ## <span style="color:#00FF00;"> Conexão e Contato</span>
 
