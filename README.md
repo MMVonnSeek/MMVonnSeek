@@ -1,4 +1,8 @@
-# <span style="color:#00FF00;">[root@MMVonnSeek ~]# ./security_profile.sh</span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=00FF00&background=000000&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status Online">
@@ -82,7 +86,7 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 
 ---
 
-## <span style="color:#00FF00;">📧 Conexão e Contato</span>
+## <span style="color:#00FF00;"> Conexão e Contato</span>
 
 Interessado em minhas habilidades e projetos? Conecte-se comigo!
 
