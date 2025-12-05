@@ -1,75 +1,89 @@
+# <span style="color:#00FF00;">[root@MMVonnSeek ~]# ./security_profile.sh</span>
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+  <img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status Online">
+  <img src="https://img.shields.io/badge/Area-Cybersecurity-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Area Cybersecurity">
 </p>
+
+---
+
+## <span style="color:#00FF00;">🛡️ MMVonnSeek</span>
+
+Com uma sólida formação acadêmica que inclui **Graduação em Análise e Desenvolvimento de Sistemas** e **Pós-Graduações em Segurança da Informação** e **Data Science & Big Data Analyst**, sou um desenvolvedor focado em cibersegurança.
+
+Minha paixão pela **proteção de sistemas e dados** se traduz na especialização em criação de ferramentas robustas para **análise de vulnerabilidades** e **monitoramento de segurança**. Minha base em Data Science me permite abordar a segurança com uma perspectiva **analítica e orientada a dados**.
+
+Estou em busca de uma posição desafiadora onde possa aplicar meu conhecimento prático e teórico para fortalecer a postura de segurança de sua organização.
+
+---
+
+## <span style="color:#00FF00;"> Habilidades Técnicas e Ferramentas</span>
+
+<table align="center">
+<tr>
+<td>
+
+| **Categoria** | **Tecnologias** |
+|----------------|-----------------|
+| **Linguagens / Frameworks** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" /> ![PHP](https://skillicons.dev/icons?i=php) <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" /> ![Flask](https://skillicons.dev/icons?i=flask) <img src="https://techstack-generator.vercel.app/react-icon.svg" width="59" height="55" alt="icon" /> |
+| **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![WordPress](https://skillicons.dev/icons?i=wordpress) |
+| **Segurança / Redes / OS** | ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) <img src="/Kali.png" width="50" height="50" alt="Kali" /> ![Kali Linux](https://skillicons.dev/icons?i=kalilinux) ![Wireshark](https://skillicons.dev/icons?i=wireshark)  ![Windows](https://skillicons.dev/icons?i=windows) <img src="https://img.shields.io/badge/Tails%20OS-563D7C?style=flat-square&logo=linux&logoColor=white" alt="Tails OS"> ![Tails](https://skillicons.dev/icons?i=tails) |
+| **Banco de Dados** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" alt="MySQL" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MariaDB](https://skillicons.dev/icons?i=mariadb) |
+| **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="56" /> ![Arduino](https://skillicons.dev/icons?i=arduino) |
+| **Estudando Atualmente** | ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Red Hat](https://skillicons.dev/icons?i=redhat) ![Docker](https://skillicons.dev/icons?i=docker) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+
+</td>
+</tr>
+</table>
+
+
+---
+
+
+## <span style="color:#00FF00;"> Projetos de Destaque: </span>
+
+Meus projetos demonstram a aplicação prática de conceitos de cibersegurança e desenvolvimento de ferramentas:
+
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **Port Scanner** | Proficiência em **programação de rede** e **análise de protocolos** para identificação de vulnerabilidades. | [Port-Scanner](https://github.com/MMVonnSeek/Port-Scanner) |
+| **Esteganografia** | Aplicação de técnicas de **criptografia** e **ocultação de dados** (Segurança da Informação). | [Esteganografia](https://github.com/MMVonnSeek/Esteganografia) |
+| **CTF-Tools-Educacional** | Conhecimento em diversas disciplinas de CTF, como **forense** e **web exploitation**. | [CTF-Tools-Educacional](https://github.com/MMVonnSeek/CTF-Tools-Educacional) |
+| **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
+| **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
+
+---
+
+<!-- ========================== -->
+<!-- 📊 Estatísticas -->
+<!-- ========================== -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Minhas Estatísticas no GitHub</h2>
 
 <div align="center">
-  <p>Technology, development, and automation enthusiast. Always exploring new tools and languages.</p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMVonnSeek&theme=react" width="100%">
 </div>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
-  <a href="https://holopin.io/@mmvonnseek" target="_blank">
-    <img src="https://holopin.me/mmvonnseek" alt="@mmvonnseek's Holopin board">
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMVonnSeek&theme=react" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMVonnSeek&theme=react" width="49%">
 </p>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMVonnSeek&theme=react" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMVonnSeek&theme=react&utcOffset=8" width="49%">
 </p>
 
----
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mmvonnseek&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" alt="Estatísticas do GitHub" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmvonnseek&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" alt="Linguagens mais usadas" />
-</div>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ---
 
-## Main skills:
+## <span style="color:#00FF00;">📧 Conexão e Contato</span>
 
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="60"/> </a>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="60" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="55" height="60" alt="Bootstrap" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=wordpress" width="50" alt="WordPress" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="60" alt="GitHub" />
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
-  </a>
-</div>
+Interessado em minhas habilidades e projetos? Conecte-se comigo!
 
----
-
-## Studying in this moment:
-
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="60" alt="Raspberry Pi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" alt="RedHat" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" height="50" alt="TailwindCSS" /></a>
-</div>
-
----
-
-<div align="center">
-  <strong>Thanks for visiting!</strong>  
-  <br>⚡ Explore my repositories, give a star ⭐ if you like any project!
-</div>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/maxmullers17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="maxmullers17" /></a></p><br><br>
+<!-- - **LinkedIn:** [MMVonnSeek no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com)
