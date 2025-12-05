@@ -89,5 +89,5 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 
 Interessado em minhas habilidades e projetos? Conecte-se comigo!
 
-<!-- - **LinkedIn:** [MMVonnSeek no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com)
+<!-- - **LinkedIn:** [MMVonnSeek no LinkedIn](https://www.linkedin.com/in/meu-usuario/)
+- **E-mail:** [email@provedor.com](mailto:email@provedor.com)
