@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Area-Cybersecurity-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Area Cybersecurity">
 </p>
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ## <span style="color:#00FF00;">🛡️ MMVonnSeek</span>
 
@@ -19,7 +19,7 @@ Minha paixão pela **proteção de sistemas e dados** se traduz na especializaç
 
 Estou em busca de uma posição desafiadora onde possa aplicar meu conhecimento prático e teórico para fortalecer a postura de segurança de sua organização.
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ## <span style="color:#00FF00;"> Habilidades Técnicas e Ferramentas</span>
 
@@ -41,7 +41,7 @@ Estou em busca de uma posição desafiadora onde possa aplicar meu conhecimento 
 </table>
 
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 ## <span style="color:#00FF00;"> Projetos de Destaque: </span>
@@ -57,7 +57,7 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 | **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
 | **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <!-- ========================== -->
 <!-- 📊 Estatísticas -->
