@@ -11,7 +11,7 @@
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
-## <span style="color:#00FF00;">🛡️ Max Muller</span>
+## <span style="color:#00FF00;">Max Muller</span>
 
 Com uma sólida formação acadêmica que inclui **Graduação em Análise e Desenvolvimento de Sistemas** e **Pós-Graduações em Segurança da Informação** e **Data Science & Big Data Analyst**, sou um desenvolvedor focado em cibersegurança.
 
