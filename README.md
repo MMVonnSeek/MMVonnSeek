@@ -99,6 +99,9 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 
 Interessado em minhas habilidades e projetos? Conecte-se comigo!
 
+----
+
+<div align="center">
 
 [![Stars](https://img.shields.io/github/stars/MMVonnSeek/MMVonnSeek?style=social)](https://github.com/MMVonnSeek/MMVonnSeek/stargazers)
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/MMVonnSeek?style=social)](https://github.com/MMVonnSeek/MMVonnSeek/network/members)
