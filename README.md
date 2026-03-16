@@ -47,11 +47,21 @@ Estou em busca de uma posição desafiadora onde possa aplicar meu conhecimento 
 ## <span style="color:#00FF00;"> Projetos de Destaque: </span>
 
 Meus projetos demonstram a aplicação prática de conceitos de cibersegurança e desenvolvimento de ferramentas:
-
+### Ferramentas de Reconhecimento (Reconnaissance)
 | Projeto | Habilidade Demonstrada | Link |
 |---|---|---|
-| **Subdomain Enumerator** | Framework avançado de enumeração de subdomínios com técnicas ativas e passivas, DoH, APIs de Recon, paralelismo, dashboard HTML e logging estruturado. | [Subdomain-Enumerator](https://github.com/MMVonnSeek/Subdomain-Enumerator) |
 | **Port Scanner** | Proficiência em **programação de rede** e **análise de protocolos** para identificação de vulnerabilidades. | [Port-Scanner](https://github.com/MMVonnSeek/Port-Scanner) |
+| **Subdomain Enumerator** | Framework avançado de enumeração de subdomínios com técnicas ativas e passivas, DoH, APIs de Recon, paralelismo, dashboard HTML e logging estruturado. | [Subdomain-Enumerator](https://github.com/MMVonnSeek/Subdomain-Enumerator) |
+| **Whois-ip-recon** | Ferramenta de reconhecimento passivo que agrega informações de Whois, inteligência de IP e dados OSINT. | [whois-ip-recon](https://github.com/MMVonnSeek/whois-ip-recon) |
+
+### Ferramentas de Automação de Segurança
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **Passcheck-pro** | Ferramenta de segurança para análise avançada de senhas. Utiliza múltiplas heurísticas (entropia, padrões de teclado, contexto pessoal) para fornecer feedback a. | [passcheck-pro](https://github.com/MMVonnSeek/passcheck-pro) |
+
+### Outros Projetos
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
 | **Esteganografia** | Aplicação de técnicas de **criptografia** e **ocultação de dados** (Segurança da Informação). | [Esteganografia](https://github.com/MMVonnSeek/Esteganografia) |
 | **CTF-Tools-Educacional** | Conhecimento em diversas disciplinas de CTF, como **forense** e **web exploitation**. | [CTF-Tools-Educacional](https://github.com/MMVonnSeek/CTF-Tools-Educacional) |
 | **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
