@@ -54,7 +54,7 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 | **Subdomain Enumerator** | Framework avançado de enumeração de subdomínios com técnicas ativas e passivas, DoH, APIs de Recon, paralelismo, dashboard HTML e logging estruturado. | [Subdomain-Enumerator](https://github.com/MMVonnSeek/Subdomain-Enumerator) |
 | **Whois-ip-recon** | Ferramenta de reconhecimento passivo que agrega informações de Whois, inteligência de IP e dados OSINT. | [whois-ip-recon](https://github.com/MMVonnSeek/whois-ip-recon) |
 
-### Ferramentas de Automação de Segurança
+### Ferramenta de Automação de Segurança
 | Projeto | Habilidade Demonstrada | Link |
 |---|---|---|
 | **Passcheck-pro** | Ferramenta de segurança para análise avançada de senhas. Utiliza múltiplas heurísticas (entropia, padrões de teclado, contexto pessoal) para fornecer feedback a. | [passcheck-pro](https://github.com/MMVonnSeek/passcheck-pro) |
