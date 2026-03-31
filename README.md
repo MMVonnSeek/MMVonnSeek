@@ -72,6 +72,9 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 <!-- ========================== -->
 <!-- 📊 Estatísticas -->
 <!-- ========================== -->
+### 📊 Estatísticas 
+  <details>
+    <summary><b>MMVonnSeek</b></summary>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Minhas Estatísticas no GitHub</h2>
 
 <div align="center">
@@ -98,9 +101,9 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 ## <span style="color:#00FF00;"> Conexão e Contato</span>
 
 Interessado em minhas habilidades e projetos? Conecte-se comigo!
-
+  
 ----
-
+  </details>
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/MMVonnSeek/MMVonnSeek?style=social)](https://github.com/MMVonnSeek/MMVonnSeek/stargazers)
