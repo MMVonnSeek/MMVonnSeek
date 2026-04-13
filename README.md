@@ -13,11 +13,13 @@
 
 ## <span style="color:#00FF00;">Max Muller</span>
 
-Com uma sólida formação acadêmica que inclui **Graduação em Análise e Desenvolvimento de Sistemas** e **Pós-Graduações em Segurança da Informação** e **Data Science & Big Data Analyst**, sou um desenvolvedor focado em cibersegurança.
+Com sólida formação acadêmica em tecnologia, incluindo Graduação em Análise e Desenvolvimento de Sistemas, pós-graduações em Segurança da Informação e Data Science & Big Data, e MBA em Inteligência Artificial, atuo como desenvolvedor com foco em soluções inteligentes e seguras.
 
-Minha paixão pela **proteção de sistemas e dados** se traduz na especialização em criação de ferramentas robustas para **análise de vulnerabilidades** e **monitoramento de segurança**. Minha base em Data Science me permite abordar a segurança com uma perspectiva **analítica e orientada a dados**.
+Minha experiência integra desenvolvimento de software, análise de dados e cibersegurança, com ênfase na criação de soluções robustas para identificação de vulnerabilidades, monitoramento e tomada de decisão orientada por dados.
 
-Estou em busca de uma posição desafiadora onde possa aplicar meu conhecimento prático e teórico para fortalecer a postura de segurança de sua organização.
+A combinação entre Inteligência Artificial e Data Science amplia minha capacidade de atuar de forma estratégica, aplicando tecnologia para gerar valor real, eficiência operacional e fortalecimento da segurança organizacional.
+
+Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e visão analítica para impulsionar a transformação digital e elevar o nível de maturidade tecnológica das organizações.
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
