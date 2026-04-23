@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Area-Cybersecurity-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Area Cybersecurity">
 </p>
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ## <span style="color:#00FF00;">Max Muller</span>
 
@@ -21,7 +21,7 @@ A combinação entre Inteligência Artificial e Data Science amplia minha capaci
 
 Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e visão analítica para impulsionar a transformação digital e elevar o nível de maturidade tecnológica das organizações.
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ## <span style="color:#00FF00;"> Habilidades Técnicas e Ferramentas</span>
 
@@ -33,8 +33,8 @@ Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e vi
 |----------------|-----------------|
 | **Linguagens / Frameworks** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" /> ![PHP](https://skillicons.dev/icons?i=php) <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" /> ![Flask](https://skillicons.dev/icons?i=flask) <img src="https://techstack-generator.vercel.app/react-icon.svg" width="59" height="55" alt="icon" /> |
 | **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![WordPress](https://skillicons.dev/icons?i=wordpress) |
-| **Segurança / Redes / OS** | ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) <img src="/Kali.png" width="50" height="50" alt="Kali" /> <img src="/TAILS.png" width="50" height="60" alt="Tails" /> ![Windows](https://skillicons.dev/icons?i=windows) |
-| **Banco de Dados** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" alt="MySQL" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) <img src="/MariaDB.png" width="50" height="50" alt="Mariadb" /> |
+| **Segurança / Redes / OS** | ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) <img src="/assets/Kali.png" width="50" height="50" alt="Kali" /> <img src="/assets/TAILS.png" width="50" height="60" alt="Tails" /> ![Windows](https://skillicons.dev/icons?i=windows) |
+| **Banco de Dados** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" alt="MySQL" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) <img src="/assets/MariaDB.png" width="50" height="50" alt="Mariadb" /> |
 | **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="56" /> ![Arduino](https://skillicons.dev/icons?i=arduino) |
 | **Estudando Atualmente** | ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Red Hat](https://skillicons.dev/icons?i=redhat) ![Docker](https://skillicons.dev/icons?i=docker) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
 
@@ -43,7 +43,7 @@ Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e vi
 </table>
 
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 ## <span style="color:#00FF00;"> Projetos de Destaque: </span>
@@ -69,7 +69,7 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 | **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
 | **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <!-- ========================== -->
 <!-- 📊 Estatísticas -->
@@ -83,21 +83,21 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMVonnSeek&theme=react" width="100%">
 </div>
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMVonnSeek&theme=react" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMVonnSeek&theme=react" width="49%">
 </p>
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMVonnSeek&theme=react" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMVonnSeek&theme=react&utcOffset=8" width="49%">
 </p>
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 ## <span style="color:#00FF00;"> Conexão e Contato</span>
