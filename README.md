@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003366,70:00ff88,100:0d1117&height=220&section=header&text=MAX%20MULLER%20&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Software%20Developer%20%7C%20Data%20Science%20%7C%20MBA%20in%20Artificial%20Intelligence&descAlignY=58&descSize=19&descColor=00ff88&animation=fadeIn" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=00FF00&background=000000&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
 </p>
