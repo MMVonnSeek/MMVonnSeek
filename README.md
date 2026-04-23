@@ -15,8 +15,6 @@
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
-## <span style="color:#00FF00;">Max Muller</span>
-
 Com sólida formação acadêmica em tecnologia, incluindo Graduação em Análise e Desenvolvimento de Sistemas, pós-graduações em Segurança da Informação e Data Science & Big Data, e MBA em Inteligência Artificial, atuo como desenvolvedor com foco em soluções inteligentes e seguras.
 
 Minha experiência integra desenvolvimento de software, análise de dados e cibersegurança, com ênfase na criação de soluções robustas para identificação de vulnerabilidades, monitoramento e tomada de decisão orientada por dados.
