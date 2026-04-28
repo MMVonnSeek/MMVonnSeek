@@ -71,8 +71,10 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 | **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
 | **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
 
-<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,30:003366,70:00ff88,100:0d1117&section=footer" />
+</div>
+  
 <!-- ========================== -->
 <!-- 📊 Estatísticas -->
 <!-- ========================== -->
