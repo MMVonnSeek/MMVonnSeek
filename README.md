@@ -1,16 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003366,70:00ff88,100:0d1117&height=220&section=header&text=MAX%20MULLER%20&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Software%20Developer%20%7C%20Data%20Science%20%7C%20MBA%20in%20Artificial%20Intelligence&descAlignY=58&descSize=19&descColor=00ff88&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,70:cc0000,100:0d0d0d&height=220&section=header&text=MAX%20MULLER%20&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Software%20Developer%20%7C%20Data%20Science%20%7C%20MBA%20in%20Artificial%20Intelligence&descAlignY=58&descSize=19&descColor=ee0000&animation=fadeIn" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=00FF00&background=000000&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=EE0000&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status Online">
-  <img src="https://img.shields.io/badge/Area-Cybersecurity-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Area Cybersecurity">
+  <img src="https://img.shields.io/badge/Status-ONLINE-cc0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Status Online">
+  <img src="https://img.shields.io/badge/Area-Cybersecurity-1a0000?style=for-the-badge&logo=codesandbox&logoColor=ee0000" alt="Area Cybersecurity">
 </p>
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
@@ -25,7 +25,7 @@ Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e vi
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
-## <span style="color:#00FF00;"> Habilidades Técnicas e Ferramentas</span>
+## <span style="color:#EE0000;"> Habilidades Técnicas e Ferramentas</span>
 
 <table align="center">
 <tr>
@@ -48,7 +48,7 @@ Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e vi
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
-## <span style="color:#00FF00;"> Projetos de Destaque: </span>
+## <span style="color:#EE0000;"> Projetos de Destaque: </span>
 
 Meus projetos demonstram a aplicação prática de conceitos de cibersegurança e desenvolvimento de ferramentas:
 ### Ferramentas de Reconhecimento (Reconnaissance)
@@ -72,7 +72,7 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 | **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,30:003366,70:00ff88,100:0d1117&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d0d0d,30:1a0000,70:cc0000,100:0d0d0d&section=footer" />
 </div>
   
 <!-- ========================== -->
@@ -84,27 +84,26 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Minhas Estatísticas no GitHub</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMVonnSeek&theme=react" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&title_color=EE0000&icon_color=EE0000&text_color=ffffff&bg_color=0d0d0d&border_color=EE0000&hide_border=false" width="100%">
 </div>
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMVonnSeek&theme=react" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMVonnSeek&theme=react" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMVonnSeek&layout=compact&title_color=EE0000&text_color=ffffff&bg_color=0d0d0d&border_color=EE0000&langs_count=8" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMVonnSeek&theme=dark&background=0d0d0d&border=EE0000&ring=EE0000&fire=cc0000&currStreakLabel=EE0000&sideLabels=EE0000&dates=aaaaaa" width="49%">
 </p>
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMVonnSeek&theme=react" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMVonnSeek&theme=react&utcOffset=8" width="49%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMVonnSeek&bg_color=0d0d0d&color=EE0000&line=cc0000&point=ffffff&area=true&area_color=EE0000&border_color=EE0000" width="100%">
 </p>
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
-## <span style="color:#00FF00;"> Conexão e Contato</span>
+## <span style="color:#EE0000;"> Conexão e Contato</span>
 
 Interessado em minhas habilidades e projetos? Conecte-se comigo!
   
@@ -115,5 +114,3 @@ Interessado em minhas habilidades e projetos? Conecte-se comigo!
 [![Stars](https://img.shields.io/github/stars/MMVonnSeek/MMVonnSeek?style=social)](https://github.com/MMVonnSeek/MMVonnSeek/stargazers)
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/MMVonnSeek?style=social)](https://github.com/MMVonnSeek/MMVonnSeek/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
-<!-- - **LinkedIn:** [MMVonnSeek no LinkedIn](https://www.linkedin.com/in/meu-usuario/)
-- **E-mail:** [email@provedor.com](mailto:email@provedor.com)
