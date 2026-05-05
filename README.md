@@ -48,28 +48,38 @@ Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e vi
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
-## <span style="color:#EE0000;"> Projetos de Destaque: </span>
+## <span style="color:#EE0000;">Projetos de Destaque</span>
 
 Meus projetos demonstram a aplicação prática de conceitos de cibersegurança e desenvolvimento de ferramentas:
+
+### Guias e Material Educacional
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| **linux-security-guide** | Guia prático de Linux para Cibersegurança — fundamentos, redes, hardening e labs práticos. Criado e testado em sala de aula no SENAI. | [linux-security-guide](https://github.com/MMVonnSeek/linux-security-guide) |
+
 ### Ferramentas de Reconhecimento (Reconnaissance)
+
 | Projeto | Habilidade Demonstrada | Link |
 |---|---|---|
 | **Port Scanner** | Proficiência em **programação de rede** e **análise de protocolos** para identificação de vulnerabilidades. | [Port-Scanner](https://github.com/MMVonnSeek/Port-Scanner) |
 | **Subdomain Enumerator** | Framework avançado de enumeração de subdomínios com técnicas ativas e passivas, DoH, APIs de Recon, paralelismo, dashboard HTML e logging estruturado. | [Subdomain-Enumerator](https://github.com/MMVonnSeek/Subdomain-Enumerator) |
 | **Whois-ip-recon** | Ferramenta de reconhecimento passivo que agrega informações de Whois, inteligência de IP e dados OSINT. | [whois-ip-recon](https://github.com/MMVonnSeek/whois-ip-recon) |
 
-### Ferramenta de Automação de Segurança
-| Projeto | Habilidade Demonstrada | Link |
-|---|---|---|
-| **Passcheck-pro** | Ferramenta de segurança para análise avançada de senhas. Utiliza múltiplas heurísticas (entropia, padrões de teclado, contexto pessoal) para fornecer feedback a. | [passcheck-pro](https://github.com/MMVonnSeek/passcheck-pro) |
+### Ferramentas de Análise e Automação
 
-### Outros Projetos
 | Projeto | Habilidade Demonstrada | Link |
 |---|---|---|
-| **Esteganografia** | Aplicação de técnicas de **criptografia** e **ocultação de dados** (Segurança da Informação). | [Esteganografia](https://github.com/MMVonnSeek/Esteganografia) |
-| **CTF-Tools-Educacional** | Conhecimento em diversas disciplinas de CTF, como **forense** e **web exploitation**. | [CTF-Tools-Educacional](https://github.com/MMVonnSeek/CTF-Tools-Educacional) |
-| **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
+| **Passcheck-pro** | Análise avançada de senhas com múltiplas heurísticas — entropia, padrões de teclado e contexto pessoal. | [passcheck-pro](https://github.com/MMVonnSeek/passcheck-pro) |
 | **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
+| **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
+
+### Segurança Ofensiva e CTF
+
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **CTF-Tools-Educacional** | Conhecimento em diversas disciplinas de CTF, como **forense** e **web exploitation**. | [CTF-Tools-Educacional](https://github.com/MMVonnSeek/CTF-Tools-Educacional) |
+| **Esteganografia** | Aplicação de técnicas de **criptografia** e **ocultação de dados** (Segurança da Informação). | [Esteganografia](https://github.com/MMVonnSeek/Esteganografia) |
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d0d0d,30:1a0000,70:cc0000,100:0d0d0d&section=footer" />
