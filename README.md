@@ -57,6 +57,7 @@ Meus projetos demonstram a aplicação prática de conceitos de cibersegurança 
 | Projeto | Descrição | Link |
 |---|---|---|
 | **linux-security-guide** | Guia prático de Linux para Cibersegurança — fundamentos, redes, hardening e labs práticos. Criado e testado em sala de aula no SENAI. | [linux-security-guide](https://github.com/MMVonnSeek/linux-security-guide) |
+| **linux-hardening-toolkit** | Auditoria e hardening automatizado de servidores Linux, score de segurança baseado no CIS Benchmark, relatório HTML e correções interativas. | [linux-hardening-toolkit](https://github.com/MMVonnSeek/linux-hardening-toolkit) |
 
 ### Ferramentas de Reconhecimento (Reconnaissance)
 
