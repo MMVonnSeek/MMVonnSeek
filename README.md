@@ -47,6 +47,19 @@ Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e vi
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
+## <span style="color:#EE0000;">Certificações</span>
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/7ea1ec5c-9597-44eb-8790-aa085898bf7a/public_url">
+  <img src="https://images.credly.com/size/340x340/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" alt="AWS Academy Educator" width="150">
+</a>
+
+</div>
+
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
+
 
 ## <span style="color:#EE0000;">Projetos de Destaque</span>
 
