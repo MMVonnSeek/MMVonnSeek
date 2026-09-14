@@ -6,7 +6,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=EE0000&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
 </p>
 
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
+<div align="center">
+
+## <span style="color: #EE0000;"> Estou organizando o Hacktoberfeat Hack Day 2026!</span>
+
+<a href="https://events.mlh.com/events/14901-hacktoberfest-hack-day-brasilia-x-senai-df">
+<img src="https://raw.githubusercontent.com/MMVonnSeek/MMVonnSeek/main/assets/HACKTOBERFEST - SENAI.png" width="100%">
+</a>
+
+**📍 SENAI Taguatinga-DF | 🗓️ 27 de outubro | 🕛 9h às 17h**
+
+Um dia de contribuição colaborativa com IA open source e modelos open-weight, para aprender, ensinar e fortalecer a comunidade de tecnologia do DF.
+
+<a href="https://events.mlh.com/events/14901-hacktoberfest-hack-day-brasilia-x-senai-df">
+<img src="https://img.shields.io/badge/Inscreva--se-EE0000?style=for-the-badge&=githubsponsor&logoColor=white" alt="Inscreva-se">
+</a>
+
+</div>
+
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-ONLINE-cc0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Status Online">
