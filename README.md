@@ -2,15 +2,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,70:cc0000,100:0d0d0d&height=220&section=header&text=MAX%20MULLER%20&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Software%20Developer%20%7C%20Data%20Science%20%7C%20MBA%20in%20Artificial%20Intelligence&descAlignY=58&descSize=19&descColor=ee0000&animation=fadeIn" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=EE0000&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
-</p>
-
-<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+</p> -->
 
 <div align="center">
 
-## <span style="color: #EE0000;"> Estou organizando o Hacktoberfeat Hack Day 2026!</span>
+## <span style="color: #EE0000;"> Estou organizando o Hacktoberfest SENAI 2026!</span>
 
 <a href="https://events.mlh.com/events/14901-hacktoberfest-hack-day-brasilia-x-senai-df">
 <img src="https://raw.githubusercontent.com/MMVonnSeek/MMVonnSeek/main/assets/HACKTOBERFEST - SENAI.png" width="100%">
@@ -27,6 +25,8 @@ Um dia de contribuição colaborativa com IA open source e modelos open-weight, 
 </div>
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<!-- Banner HACKTOBERFEST 2026 - Irei remover dia 27 de outubro -->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-ONLINE-cc0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Status Online">
